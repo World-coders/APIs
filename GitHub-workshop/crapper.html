@@ -1,0 +1,63 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <title>FAC is AWESOME</title>
+</head>
+<body>
+ <div id="t-form">
+    <form id="t-input" method="post" action="/user" class="train-form" style="background-color:#81BEF7">
+      <ul color="#81BEF7">
+        <li>Running<input type="radio" name="t-type" id="t-type" value="1" checked=
+        "checked"></li>
+
+        <li>Cycling<input type="radio" name="t-type" id="t-type" value="2"></li>
+
+        <li>Gym<input type="radio" name="t-type" id="t-type" value="3"></li>
+
+        <li>Yoga<input type="radio" name="t-type" id="t-type" value="4"></li>
+      </ul>
+
+      <p>Intensity</p><input type="radio" name="t-i" id="t-i1" value="1"><input type=
+      "radio" name="t-i" id="t-i2" value="2"><input type="radio" name="t-i" id="t-i3"
+      value="3"><input type="radio" name="t-i" id="t-i4" value="4"><input type="radio"
+      name="t-i" id="t-i5" value="5" checked="checked"><input type="radio" name="t-i" id=
+      "t-i6" value="6"><input type="radio" name="t-i" id="t-i7" value="7"><input type=
+      "radio" name="t-i" id="t-i8" value="8"><input type="radio" name="t-i" id="t-i9"
+      value="9"><input type="radio" name="t-i" id="t-i10" value="10">
+
+      <p>Enjoyment</p><input type="radio" name="t-e" id="t-e1" value="1"><input type=
+      "radio" name="t-e" id="t-e2" value="2"><input type="radio" name="t-e" id="t-e3"
+      value="3"><input type="radio" name="t-e" id="t-e4" value="4"><input type="radio"
+      name="t-e" id="t-e5" value="5" checked="checked"><input type="radio" name="t-e" id=
+      "t-e6" value="6"><input type="radio" name="t-e" id="t-e7" value="7"><input type=
+      "radio" name="t-e" id="t-e8" value="8"><input type="radio" name="t-e" id="t-e9"
+      value="9"><input type="radio" name="t-e" id="t-e10" value="10"><input type="text"
+      name="t-length" id="t-length" placeholder="Length"><input type="text"
+      name="t-notes" id="t-notes" placeholder="Notes"><input type="text" name=
+      "t-injuries" id="t-injuries" placeholder="Injuries"><input type="text" name=
+      "t-goals" id="t-goals" placeholder="Goals">
+
+      <p><input type="button" value="Submit"></p>
+    </form>
+  </div>
+  <script>var typeInput = document.getElementById('t-type'); var intInput = 11; var enjInput = 11; var lenInput = document.getElementById('t-length'); var noteInput = document.getElementById('t-notes'); var injInput = document.getElementById('t-injuries'); var goalInput = document.getElementById('t-goals'); document.querySelector('form.train-form input[type=button]').addEventListener('click', function(e) {
+  function getRadioValue(groupName, groupVal) {
+            var valRet = 0;
+            var radios = document.getElementsByName(groupName);
+            for (var i = 0; i < radios.length; i++) {
+        if (radios[i].checked) {
+            groupVal = i;
+            break;
+        }
+    }
+    return groupVal;
+  };
+  intInput = (getRadioValue("t-i", intInput)+1);
+  enjInput = (getRadioValue("t-e", enjInput)+1);
+  console.log("{Type: "+typeInput.value+"}");
+  console.log("{Intensity: "+intInput+"}");
+  console.log("{Enjoyment: "+enjInput+"}");
+  console.log("{Length: "+lenInput.value+"}"); console.log("{Notes: "+noteInput.value+"}"); console.log("{Injuries: "+injInput.value+"}"); console.log("{Goals: "+goalInput.value+"}")});</script>
+</body>
+</html>
