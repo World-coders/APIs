@@ -8,3 +8,4 @@ During this five day course you will get an introduction to GitHub and the comma
 
 [Recommended pre-course study](https://github.com/foundersandcoders/courses/blob/master/qmul.md)
 
+# Schedule
