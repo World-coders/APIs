@@ -18,9 +18,16 @@ We want you to get used to working in teams and using GitHub, so this is a gentl
 
 1. Clone this repo into your team organisation and create a new repo if you don't have one yet.
 2. Split into pairs and plan your work.
-3. Create issues on GitHub. Remeber to link your issues on your commits.
+3. Create issues on GitHub. Remember to link your issues on your commits.
 4. Working together and constantly communicating, split the html, css, and js from crapper.html
 6. Then make your fixes
 7. Then push your new files up to github using git push origin <branchName>
 8. Then create a pull request and ask the other pair to merge it - DO NOT COMMIT DIRECTLY TO THE MASTER BRANCH OR AN ANGEL WILL DIE
 9. Once both pairs have had their fixes merged, you're done.
+
+## Stretch goals
++ Fix the JavaScript and make it work :yum:
++ Improve the CSS
+
+### Slides
+[Git and GitHub crash course](http://www.slideshare.net/MireiaSangalo/git-and-github-crash-course)

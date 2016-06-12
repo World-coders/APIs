@@ -95,5 +95,5 @@ You should be able to see something like this:
 + [Customizing Google Maps](https://developers.google.com/maps/documentation/javascript/tutorials/customizing#overview)
 
 # Next...
-## 5. Importing Data
+## 5. Visualising Data
 Well done! Now we know how to implement a Google Map into our website. Let's get crazy with colours and other styles! Click [here](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/5-ImportData) to get started :bowtie:

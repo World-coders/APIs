@@ -34,29 +34,16 @@ You can follow me on [Twitter](https://twitter.com/MyPitit) and on [GitHub](http
 + Customise map markers.
 + Add a legend to your map.
 
-#### [5-Importing data](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/5-ImportData)
+#### [5. Visualising data](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/5-VisualisingData)
 ###### Topics:
 + Load data into your Maps API application from a local file, using XMLHttpRequest.
 + Load data from a different server.
 + Load data using JSONP.
 + Parse imported data.
 
-#### [6-Displaying KML](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/6-KML)
-###### Topics:
-+ Make sure your KML file is set up for import.
-+ Create a KMLLayer object.
-+ Display the layer.
-+ Capture and display feature data in a sidebar.
-
-#### [7-Markers, heatmaps, and symbols](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/7-Markers)
-###### Topics:
-+ Import data into your Maps application.
-+ Display that data on a map using simple markers.
-+ Use symbols and heatmaps to improve the appearance.
-
 #### [Project](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/Project)
 + Time to put in practice all the topics leaned in one project.
 
 
 ### Slides
-[Google Maps Course]()
+[Google Maps Course](http://www.slideshare.net/MireiaSangalo/google-maps-course)
