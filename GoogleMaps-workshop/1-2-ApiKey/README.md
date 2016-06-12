@@ -1,4 +1,8 @@
-# Getting started
+# 1. What is an API key and why do I need one?
+#### What is an API Key? 
+```Application programming interface key```. API keys are used to track and control how the API is being used, in order to prevent malicius user or abuse of the API. The API key is a unique identifier for each user and a secret token for authentication.
+
+**So please do not share your APIs!**
 
 To being able to use ```google APIs``` you need to have a ```google account```. If you don't have one you can create it [here](https://accounts.google.com/SignUp).
 
@@ -7,12 +11,8 @@ Once you are login into your ```Google account``` go to [Google maps API pages](
 ## API key
 Before we go any further we need to have our ```API key```. 
 
-#### What is an API Key? 
-```Application programming interface key```. API keys are used to track and control how the API is being used, in order to prevent malicius user or abuse of the API. The API key is a unique identifier for each user and a secret token for authentication.
 
-**So please do not share your APIs!**
-
-#### How to get an API key? 
+# 2. How to create an API key? 
 
 * We need browse to the ```APIs manager```, click [here](https://code.google.com/apis/console).
 
@@ -33,14 +33,23 @@ Click on ```Select a project``` and then ```Create a project...```
 
 ![api_library4](https://cloud.githubusercontent.com/assets/2573931/15868214/b9ebb426-2cde-11e6-9e25-349966a8e83c.png)
 
-* Finally we are goin to create our API, click on ```Credentials``` and ```Create credentials```.
+* Finally we are goin to create our API, click on ```Credentials```, select API key and click on the ```Create credentials``` button.
 
-![oauth](https://cloud.githubusercontent.com/assets/2573931/15868249/e61eb034-2cde-11e6-8741-0e21d564d0e2.png)
+Choose ```Browser API key```.
+
+![credentials_-_api_tutorial](https://cloud.githubusercontent.com/assets/2573931/15991173/cfcca0e4-30a2-11e6-8345-ba239967197e.png)
 
 
-Once you did that follow the instructions and you will see something like this: 
+Once you create the key and followed the instructions and you will see something like this: 
+![api_key_-_api_tutorial](https://cloud.githubusercontent.com/assets/2573931/15991219/1746e7b2-30a4-11e6-9af8-ff75c8cace77.png)
 
-![id](https://cloud.githubusercontent.com/assets/2573931/15868540/3339be94-2ce0-11e6-9a7a-d6ad32ecc1ee.png)
+Awesome! You have created your first Google API key :)
+
+![](http://m.memegen.com/p5a86w.jpg)
 
 
 **Remember to keep in a save place your key and never share it to anyone**
+
+# Next...
+## 3. Add a Google Map into your website.
+The fun starts now! Click [here](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/3-AddingMaps) to get startarted :)
