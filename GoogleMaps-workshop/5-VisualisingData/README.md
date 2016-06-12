@@ -1,5 +1,7 @@
 # 5. Visualising Data
 
+![](https://developers.google.com/maps/documentation/javascript/tutorials/images/visualization_3maps.png)
+
 We are going to create a map that displays real-time earthquake data from United States Geological Survey (USGS), including magnitude. Click [here](http://earthquake.usgs.gov/earthquakes/feed/) to learn more about USGS.
 
 We are going to use the same code from the tutorial [3. Add a Google Map](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/4-StyleMaps), as a quick start.
@@ -69,5 +71,6 @@ This is what you should see:
 + [Heatmaps](https://developers.google.com/maps/documentation/javascript/tutorials/earthquakes#heatmaps)
 
 # Next...
-## 6. Importing Data
-Cool! Good job! Let's talk about ```KML```. Click [here](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/6-KML) to get started :bowtie:
+## Project Time!!
+
+[![](https://cdn.meme.am/instances/500x/56008633.jpg)](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/Project)
