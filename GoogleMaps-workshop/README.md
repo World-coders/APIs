@@ -1,10 +1,10 @@
 ![google](https://cloud.githubusercontent.com/assets/2573931/15853472/0c5d6692-2c9d-11e6-8fb7-5ae4149e93b0.png)
 
 # What
-These tutorials are designed specally for Queen Mary Univerity of London alumni, in order to teach them how to use a Google Maps APIs. 
+These tutorials are designed specially for Queen Mary University of London alumni, in order to teach them how to use a Google Maps APIs.
 
 # Who
-I am Mireia Sangalo, full stack JavaScript developer at Founders and Coders. I used to be a Linux SysAdmin at [Rackspace the Open Cloud Company](http://www.rackspace.co.uk/), but I decided to change my carrer as full stack JavaScript developer. 
+I am Mireia Sangalo, full stack JavaScript developer at Founders and Coders. I used to be a Linux SysAdmin at [Rackspace the Open Cloud Company](http://www.rackspace.co.uk/), but I decided to change my career as full stack JavaScript developer.
 
 Thanks to the team from [Founders and Coders](www.foundersandcoders.com) I could reach my goals and became a competent engineer.
 
@@ -12,54 +12,51 @@ You can follow me on [Twitter](https://twitter.com/MyPitit) and on [GitHub](http
 
 #How
 ## Agenda
-#### [1. What is an API key and why do I need one?]()
+#### [1. What is an API key and why do I need one?](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/1-2-ApiKey)
 
-#### [2. How to create a Google API key]()
+#### [2. How to create a Google API key](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/1-2-ApiKey)
 ###### Topics:
 + Create a Google Account
-+ Google APIs control pannel
++ Google APIs control panel
 + Types of API keys
 + Create a API key
 
-#### [3. Add a Google Map]()
+#### [3. Add a Google Map](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/3-AddingMaps)
 ###### Topics:
 + Create an HTML file to hold the map
 + Load the Maps API with JavaScript
 + Display a Map on your page.
 
-#### [4. Style your google Map]()
+#### [4. Style your google Map](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/4-StyleMaps)
 ###### Topics:
 + Style the base maps colours.
 + Hide base map geometry, labels and icons.
 + Customise map markers.
 + Add a legend to your map.
 
-#### [5-Importing data]()
+#### [5-Importing data](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/5-ImportData)
 ###### Topics:
 + Load data into your Maps API application from a local file, using XMLHttpRequest.
 + Load data from a different server.
 + Load data using JSONP.
 + Parse imported data.
 
-#### [6-Displaying KML]()
+#### [6-Displaying KML](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/6-KML)
 ###### Topics:
 + Make sure your KML file is set up for import.
 + Create a KMLLayer object.
 + Display the layer.
 + Capture and display feature data in a sidebar.
 
-#### [7-Markers, heatmaps, and symbols]()
+#### [7-Markers, heatmaps, and symbols](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/7-Markers)
 ###### Topics:
 + Import data into your Maps application.
 + Display that data on a map using simple markers.
-+ Use symbols and heatmaps to improve the appearence.
++ Use symbols and heatmaps to improve the appearance.
 
-#### [Project]()
-+ Time to put in practice all the topics leaned in one project. 
+#### [Project](https://github.com/FAC-QMUL/APIs/tree/master/GoogleMaps-workshop/Project)
++ Time to put in practice all the topics leaned in one project.
 
 
 ### Slides
 [Google Maps Course]()
-
-### Further Learning
-
