@@ -37,7 +37,7 @@ During this five day course you will get an introduction to GitHub and the comma
 
 ## Thursday - Google Maps APIs
 
-**10:00 - 11:00** Morning Challenge (LINK)
+**10:00 - 11:00** Morning Challenge
 **11:00 - 13:00** Google Maps APIs Workshop
 **13:00 - 14:00 Lunch**
 **14:00 - 14:30** Paired Project
