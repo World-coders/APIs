@@ -1,4 +1,4 @@
-# Workshop 1: Web APIs.
+# Web APIs.
 
 *10am-5pm, 13-17 June 2016*
 
@@ -8,47 +8,11 @@ During this five day course you will get an introduction to GitHub and the comma
 
 [Recommended pre-course study](https://github.com/foundersandcoders/courses/blob/master/qmul.md)
 
-# Schedule
-## Monday
-- **10:00 - 11:00** Name Game + Intro + course overview
-- **11:00 - 13:00** Github workshop + Form workshop 
-- **13:00 - 14:00 Lunch**
-- **14:00 - 16:30** Form workshop
-- **16:30 - 17:00** Review
-
-## Tuesday - Nasa API, Stackoverflow and youtube
-
-- **10:00 - 10:45** Intro to APIs
-- **10:45 - 11:15** Postman or Curl
-- **11:15 - 13:00** Nasa API
-- **13:00 - 14:00 Lunch**
-- **14:00 - 16:30** Stackoverflow and youtube
-- **16:30 - 17:00** Review
-
-## Wednesday - TFL
-
-- **10:00 - 11:00** Morning Challenge 
-- **11:00 - 13:00** TFL Workshop
-- **13:00 - 14:00 Lunch**
-- **14:00 - 14:15** Quick Review
-- **14:15 - 14:30** Paired Project
-- **16:30 - 17:00** Project Presentations (3min per Pair)
-
-## Thursday - Google Maps APIs
-
-- **10:00 - 11:00** Morning Challenge
-- **11:00 - 13:00** Google Maps APIs Workshop
-- **13:00 - 14:00 Lunch**
-- **14:00 - 14:30** Paired Project
-- **16:30 - 17:00** Project Presentations (3min per Pair)
-
-## Friday - Friday Combination Project! 
-
-- **10:00 - 13:00** Project
-- **13:00 - 14:00 Lunch**
-- **14:00 - 16:00** Project
-- **16:00 - 17:00** Presentations
-
-
-
-
+# Schedule  
+## Monday  
+- **10:00 - 11:00** Introduction & Course Overview  
+- **11:00 - 13:00** [Github workshop](https://github.com/FAC-QMUL/APIs/tree/master/GitHub-workshop)  
+- **13:00 - 14:00 Lunch**  
+- **14:00 - 16:30** [Form workshop]()  
+- **16:30 - 17:00** Upload to GH Pages  
+  
