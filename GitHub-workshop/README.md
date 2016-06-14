@@ -26,7 +26,6 @@ We want you to get used to working in teams and using GitHub, so this is a gentl
 9. Once both pairs have had their fixes merged, you're done.
 
 ## Stretch goals
-+ Fix the JavaScript and make it work :yum:
 + Improve the CSS
 
 ### Slides
