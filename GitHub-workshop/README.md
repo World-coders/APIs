@@ -16,7 +16,7 @@ We want you to get used to working in teams and using GitHub, so this is a gentl
 
 ## How
 
-1. Clone this repo into your team organisation and create a new repo if you don't have one yet.
+1. Fork this repo into your team organisation and create a new repo if you don't have one yet.
 2. Split into pairs and plan your work.
 3. Create issues on GitHub. Remember to link your issues on your commits.
 4. Working together and constantly communicating, split the html, css, and js from crapper.html
