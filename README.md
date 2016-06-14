@@ -13,6 +13,10 @@ During this five day course you will get an introduction to GitHub and the comma
 - **10:00 - 11:00** Introduction & Course Overview  
 - **11:00 - 13:00** Github workshop  
 - **13:00 - 14:00 Lunch**  
-- **14:00 - 16:30** [Form workshop](https://github.com/FAC-QMUL/APIs/tree/master/GitHub-workshop)  
+- **14:00 - 16:30** Introduction to HTML, CSS & GitHub Pages  
 - **16:30 - 17:00** Upload to GH Pages  
   
+## Tuesday  
+- **10:00 - 13:00** [Form workshop](https://github.com/FAC-QMUL/APIs/tree/master/GitHub-workshop) 
+- **13:00 - 14:00 Lunch**  
+- **14:00 - 17:00** Introduction to JavaScript  
